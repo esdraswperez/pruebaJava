@@ -12,9 +12,7 @@ public class Problema4 {
                 System.out.println(i + " Progrmación 1");
             } else if (i % 3 == 0) {
                 System.out.println(i + " Progra");
-            } else if (i % 5 == 0) {
-                System.out.println(i + " mación");
-            }
+            } // Eliminar condicional
         }
     }
 }
